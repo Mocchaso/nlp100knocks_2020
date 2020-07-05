@@ -6,9 +6,9 @@
 
 ## 環境
 
-* 第1章: Windows 10, Python 3.7.7 @Anaconda 3  
-第2章～: Ubuntu (Windows Subsystem for Linux), Python 3.7.7 @Anaconda 3  
-※第7, 8章辺りで、Google Colaboratoryに移行予定
+* 第1章: Windows 10, Python 3.7.7 @Anaconda 3
+* 第2章～: Ubuntu (Windows Subsystem for Linux), Python 3.7.7 @Anaconda 3
+* ※第7, 8章辺りで、Google Colaboratoryに移行予定
 
 ## 問題に対するメモ
 
